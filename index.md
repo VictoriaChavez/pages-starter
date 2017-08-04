@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
-cite: Edwin H. Land
+title: Bakery101
+quote:"Happiness can be found even in the darkest of times,if one only remembers to turn on the light"
+Albus Dumbledore
 ---
 
 This example is just meant to get you started and show you a little of what's
