@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bakery 101
+title: Bakery
 quote:"Happiness can be found even in the darkest of times,if one only remembers to turn on the light."
 "Do not pity the dead Harry.Pity the living and, above all those who live without love."
 Albus Dumbledore
